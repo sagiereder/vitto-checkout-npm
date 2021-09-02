@@ -1,0 +1,12 @@
+.summary-text-left{
+    text-align: left;
+    margin-bottom: 5px;
+}
+.summary-text-right{
+    text-align: right;
+    margin-bottom: 5px;
+
+}
+.card-content-summary{
+    padding: 8px 11px 8px 11px !important;
+}

@@ -1,0 +1,19 @@
+.options-text{
+    font-size: 15px;
+    color: #333333;
+}
+.options-text .MuiButton-label, .options-text .MuiButton-root, .options-text .MuiButton-text{
+    padding-top:0 !important;
+    color: #2b2b2b;
+    transition-duration: 0s !important;
+    background-color: white;
+}  
+.options-text .MuiButton-label, .options-text .MuiButton-root, .options-text .MuiButton-text{
+    padding-top:6px;
+}  
+ .options-text .MuiTouchRipple-root{
+    display: none !important;
+}
+.options-text *:focus {
+    outline: none !important;
+}
